@@ -8,6 +8,12 @@
       "TrialExpireDate": "2026-07-07T23:23:22.0000000",
       "Workspaces": [
         {
+          "Id": "257de29e-72f8-41b5-9e21-be8a0e3ef3fc",
+          "Name": "Development",
+          "Type": "development",
+          "Url": "https://dev-isaac-123.euwest01.umbraco.io"
+        },
+        {
           "Id": "1fad8da0-c645-4369-9197-0655711e27c3",
           "Name": "Live",
           "Type": "live",
