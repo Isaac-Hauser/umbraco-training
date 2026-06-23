@@ -1,7 +1,18 @@
 {
   "Deploy": {
     "Project": {
-      "Workspaces": []
+      "Name": "isaacs gregarious llama",
+      "Alias": "isaacs-gregarious-llama",
+      "Id": "4741a491-335c-4c43-ad65-19b34b264b60",
+      "TrialExpireDate": "2026-07-07T23:23:22.0000000",
+      "Workspaces": [
+        {
+          "Id": "1fad8da0-c645-4369-9197-0655711e27c3",
+          "Name": "Live",
+          "Type": "live",
+          "Url": "https://isaacs-gregarious-llama.euwest01.umbraco.io"
+        }
+      ]
     },
     "Settings": {}
   },
